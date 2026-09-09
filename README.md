@@ -4,7 +4,7 @@ Software Developer in Training | Back-End • Java • C# • SQL
 
 Building software projects while developing my skills in backend development, databases, and web applications.
 
-<a href="https://github.com/RenandosReis"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
+<a href="https://github.com/RenandosReis"> <img src=["https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"](https://capsule-render.vercel.app/api?type=shark&height=300&color=0BA3E3&text=Renan%20dos%20Reis&reversal=false&fontAlign=53&animation=scaleIn&fontSize=0&textBg=false) /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 About Me
 
 I'm a student of Systems Analysis and Development, currently in my 4th semester, focused on building a strong foundation in software development.
