@@ -1,74 +1,58 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Renan%20dos%20Reis%20Gon%C3%A7alves&fontSize=38&fontColor=c9d1d9&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Desenvolvedor%20Back-End%20em%20forma%C3%A7%C3%A3o&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/> <br>
-
-<br> <a href="https://github.com/RenandosReis"> <img src="https://img.shields.io/badge/GitHub-RenandosReis-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Renan%20dos%20Reis%20Gon%C3%A7alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-<br><br>
-
-</div>
-👨‍💻 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º semestre, com foco em desenvolvimento Back-End, APIs, bancos de dados e infraestrutura.
-
-Tenho desenvolvido projetos acadêmicos e pessoais para transformar conhecimentos teóricos em aplicações práticas, buscando evoluir constantemente minhas habilidades de programação e desenvolvimento de software.
-
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Back-End, APIs, bancos de dados, arquitetura de aplicações e infraestrutura.
-
-🛠️ Tecnologias
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,cs,js,nodejs,express,mysql,html,css,git,github,linux,vscode&perline=6" /> </div> <br> <div align="center">
-
-Java • C# • JavaScript • Node.js • Express • MySQL • SQL • HTML • CSS • Git • GitHub • Linux
-
-</div>
-🚀 Projetos em destaque
 <div align="center">
+Renan dos Reis Gonçalves
+Software Developer in Training | Back-End • Java • C# • SQL
+
+Building software projects while developing my skills in backend development, databases, and web applications.
+
+<a href="https://github.com/RenandosReis"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
+About Me
+
+I'm a student of Systems Analysis and Development, currently in my 4th semester, focused on building a strong foundation in software development.
+
+My main interests are backend development, APIs, databases, and software engineering. I use academic and personal projects to put my knowledge into practice and continuously improve my technical skills.
+
+I'm currently looking to evolve as a developer by building increasingly complete and well-structured applications.
+
+Current Focus
+Backend Development
+C# and Java
+JavaScript
+REST APIs
+SQL and Database Development
+MySQL
+Software Development
+Git and GitHub
+Web Applications
+Software Architecture
+Tech Stack
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> </div>
+Featured Projects
 🌱 CRUD-WEB
 
-Sistema Full Stack desenvolvido para gerenciamento de pontos de coleta de resíduos.
+Full-Stack web application focused on managing environmental collection points.
 
-O projeto utiliza uma arquitetura baseada em servidores Express.js, integração com MySQL e comunicação entre Front-End e Back-End através de APIs.
+The project includes backend development with Node.js and Express, database integration with MySQL, and communication between the frontend and backend.
 
-Tecnologias
+Technologies: Node.js • Express • JavaScript • MySQL
 
+View Repository
 
-
-
-
-
-<br> <a href="https://github.com/RenandosReis/CRUD-WEB"> <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-58A6FF?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
-<div align="center">
 ♻️ Ecomovimento
 
-Projeto web voltado para conscientização ambiental e descarte correto de resíduos.
+Web project focused on environmental awareness and encouraging the correct disposal of waste.
 
-O projeto busca utilizar a tecnologia como ferramenta para promover informação e conscientização sobre práticas sustentáveis.
+The project was developed as a practical application of web development concepts.
 
-<br> <a href="https://github.com/RenandosReis/Ecomovimento-"> <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-58A6FF?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
-📚 Atualmente estudando
-Back-End
-APIs REST
-Node.js
-Java
-C#
-JavaScript
-SQL e Banco de Dados
-MySQL
-Git e GitHub
-Linux
-Infraestrutura
-Arquitetura de Software
+View Repository
 
-🎯 Objetivos
-Aprimorar minhas habilidades em desenvolvimento Back-End
-Desenvolver APIs e aplicações mais completas
-Aprofundar conhecimentos em bancos de dados
-Aprender mais sobre infraestrutura e arquitetura de software
-Construir projetos práticos e profissionais
-Conquistar minha primeira oportunidade na área de desenvolvimento
-📫 Contato
-<div align="center"> <a href="https://github.com/RenandosReis"> <img src="https://img.shields.io/badge/GitHub-RenandosReis-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=RenandosReis&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenandosReis&layout=compact&theme=github_dark&hide_border=true" /> </div>
+Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenandosReis&theme=github-compact&hide_border=true" width="100%" /> </div>
 <div align="center">
-💻 Em constante aprendizado e evolução.
+Always learning. Always building.
 
-Transformando conhecimento em projetos e projetos em experiência.
+Turning knowledge into projects and projects into experience.
 
+</div>
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
