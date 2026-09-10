@@ -46,10 +46,8 @@ The project was developed as a practical application of web development concepts
 View Repository
 
 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=RenandosReis&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenandosReis&layout=compact&theme=github_dark&hide_border=true" /> </div>
 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenandosReis&theme=github-compact&hide_border=true" width="100%" /> </div>
-<div align="center">
+
 Always learning. Always building.
 
 Turning knowledge into projects and projects into experience.
