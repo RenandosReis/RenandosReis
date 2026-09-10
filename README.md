@@ -1,6 +1,6 @@
 <div align="center">
 Renan dos Reis Gonçalves
-Software Developer in Training | Back-End • Java • C# • SQL
+Software Developer in Training | Back-End •  • SQL
 
 Building software projects while developing my skills in backend development, databases, and web applications.
 
@@ -53,4 +53,4 @@ Always learning. Always building.
 Turning knowledge into projects and projects into experience.
 
 </div>
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+</div> <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"](https://capsule-render.vercel.app/api?type=waving&height=300&color=0BA3E3&section=footer&fontAlign=100)"/>
